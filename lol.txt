@@ -1,3 +1,11 @@
-LoL lOl
-Maksim Lol
+package com.mcfly;
+
+public class Main {
+
+    public static void main(String[] args) {
+        for (int i = 0; i < 73; i++) {
+            System.out.println("Lol - " + i);
+        }
+    }
+}
 
